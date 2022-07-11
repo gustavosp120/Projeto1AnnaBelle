@@ -1,0 +1,38 @@
+Body{
+	background: #EAECEE url('Imagens/fundo.png');
+	font:16px Courier, New Lucida, ConsoleMonaco;
+}
+
+#Principal{
+	width: 900px;
+}
+
+#menu {
+	background: #c5c5b2;
+	padding: 18px;
+}
+
+#Conteudo{
+	background: #D5D8DC;
+	padding: 7px;
+}
+
+a{
+	color: #89785A;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 8px;
+}
+
+.centralizar{
+	text-align: center;
+}
+
+h1{
+	color: #8B8B79;
+	font-size: 1.3em;
+}
+
+.img-campanha{
+	border: 10px solid #c5c5b2;
+}
